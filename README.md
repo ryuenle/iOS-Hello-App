@@ -1,7 +1,8 @@
 ## Hello App
 
 ### App Description
-`TODO://` Add app description
+Greets user and allows user to change the color of the text, color of the background, and the content of the text.
+
 
 ### App Walk-though
 
